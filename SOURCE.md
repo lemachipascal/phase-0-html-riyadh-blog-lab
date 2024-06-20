@@ -8,11 +8,11 @@ SUB HEAD
 
 IMAGE 1 FILE
 
-`transit.jpg`
+'transit.jpg'
 
 IMAGE 1 ALT TEXT
 
-`Modern Transit`
+`Modern Transit'
 
 SMALLER SUB HEAD
 
@@ -44,7 +44,8 @@ PARAGRAPH 3
 
 IMAGE 3 FILE
 
-`camels-in-truck.jpg`
+`camels-in-
+truck.jpg`
 
 IMAGE 3 ALT TEXT
 
